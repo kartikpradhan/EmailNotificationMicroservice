@@ -1,0 +1,7 @@
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\config\KafkaConsumerConfig.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\EmailNotificationMicroserviceApplication.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\entity\ProcessedEventEntity.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\exception\NotRetryableException.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\exception\RetryableException.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\handler\ProductCreatedEventHandler.java
+C:\Users\karti\Programs\EmailNotificationMicroservice\src\main\java\com\kp\kafka\email\repository\ProcessedEventRepository.java

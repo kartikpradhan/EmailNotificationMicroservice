@@ -1,0 +1,5 @@
+com\kp\kafka\email\config\KafkaConsumerConfig.class
+com\kp\kafka\email\exception\RetryableException.class
+com\kp\kafka\email\exception\NotRetryableException.class
+com\kp\kafka\email\handler\ProductCreatedEventHandler.class
+com\kp\kafka\email\EmailNotificationMicroserviceApplication.class
